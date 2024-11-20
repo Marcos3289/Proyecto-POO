@@ -1,0 +1,33 @@
+.customer-search {
+    margin-top: 20px;
+  }
+  
+  .customer-search h2 {
+    color: #007bff;
+  }
+  
+  .customer-search input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #e2e6ea;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .customer-search ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .customer-search li {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #e2e6ea;
+    transition: background-color 0.3s ease;
+  }
+  
+  .customer-search li:hover {
+    background-color: #f0f0f0;
+  }
+  

@@ -1,0 +1,22 @@
+.customer-history {
+    margin-top: 20px;
+  }
+  
+  .customer-history h2 {
+    color: #007bff;
+  }
+  
+  .customer-history ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .customer-history li {
+    border-bottom: 1px solid #e2e6ea;
+    padding: 10px 0;
+  }
+  
+  .customer-history li:last-child {
+    border-bottom: none;
+  }
+  

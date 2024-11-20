@@ -1,0 +1,42 @@
+.customer-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #e2e6ea;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .customer-form h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .customer-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #e2e6ea;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .customer-form button {
+    padding: 10px 15px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 5px;
+    background-color: #28a745;
+    transition: background-color 0.3s ease;
+  }
+  
+  .customer-form button:hover {
+    background-color: #218838;
+  }
+  
